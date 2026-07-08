@@ -1014,11 +1014,11 @@ https://github.com/devkailu
 
 ### LinkedIn
 
-https://linkedin.com/in/YOUR_LINKEDIN
+https://www.linkedin.com/in/kailash-shankar-b5796b288/
 
 ### Email
 
-YOUR_EMAIL
+r.kailashshankar@gmail.com
 
 </div>
 
